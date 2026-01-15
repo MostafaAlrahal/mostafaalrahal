@@ -60,13 +60,13 @@
     {
       "Title": " AI4ALL",
       "Description": "<span class='underline'>AI4ALL</span> is a modular service to accelerate the prototyping and deployment of AI assistants,  significantly reducing the time-to-delivery for new AI solutions across the company from days or weeks to hours. ",
-      "imgs": ["assets/images/mazhr/image1.png"],
+      "imgs": ["assets/images/ai4all/ai_concierge.webp","assets/images/ai4all/salma1.webp","assets/images/ai4all/salma2.webp","assets/images/ai4all/akaliza1.webp","assets/images/ai4all/akaliza2.webp"],
       "Technologies": ["Python","FastAPI", "Google ADK","LLM","MongoDB"]
     },
     {
       "Title": "MALY's data ingestion pipeline",
       "Description": "<span class='underline'>Ingestion pipeline</span> is a project to automate file-to-vector embedding conversion for AI assistant knowledge bases, forming the core of Maly’s RAG architecture for consistent and efficient information retrieval across all applications.",
-      "imgs": ["assets/images/mazhr/needle.png"],
+      "imgs": ["assets/images/data_pipeline/image1.webp","assets/images/data_pipeline/image2.webp"],
       "Technologies": ["Python","FastAPI"]
     }
   ],
