@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1768518718237,
+  "timestamp": 1768520060010,
   "index": "https://MostafaAlrahal.github.io/mostafaalrahal/index.html",
   "assetGroups": [
     {
@@ -58,7 +58,7 @@
         "https://MostafaAlrahal.github.io/mostafaalrahal/SFMono-Semibold.849266397229adad.woff",
         "https://MostafaAlrahal.github.io/mostafaalrahal/SFMono-SemiboldItalic.0ef5133ede504d56.woff2",
         "https://MostafaAlrahal.github.io/mostafaalrahal/SFMono-SemiboldItalic.33cb8d6968ae9130.woff",
-        "https://MostafaAlrahal.github.io/mostafaalrahal/assets/cv/Mostafa_Alrahal_CV.pdf",
+        "https://MostafaAlrahal.github.io/mostafaalrahal/assets/cv/MOSTAFA_ALRAHAL_CV.pdf",
         "https://MostafaAlrahal.github.io/mostafaalrahal/assets/fonts/Calibre/Calibre-Light.ttf",
         "https://MostafaAlrahal.github.io/mostafaalrahal/assets/fonts/Calibre/Calibre-Light.woff",
         "https://MostafaAlrahal.github.io/mostafaalrahal/assets/fonts/Calibre/Calibre-Light.woff2",
@@ -169,7 +169,7 @@
     "https://MostafaAlrahal.github.io/mostafaalrahal/SFMono-Semibold.849266397229adad.woff": "999e816498b39e99896d09cb18614e5bb700fa8e",
     "https://MostafaAlrahal.github.io/mostafaalrahal/SFMono-SemiboldItalic.0ef5133ede504d56.woff2": "3621c6894388833626fd4cf132087a3f46a54a21",
     "https://MostafaAlrahal.github.io/mostafaalrahal/SFMono-SemiboldItalic.33cb8d6968ae9130.woff": "4bb2ddc7da8064698328e123bd3ec673f674a90d",
-    "https://MostafaAlrahal.github.io/mostafaalrahal/assets/cv/Mostafa_Alrahal_CV.pdf": "ab2e1f34ca80beae68f32168c5da26c2eadde1a9",
+    "https://MostafaAlrahal.github.io/mostafaalrahal/assets/cv/MOSTAFA_ALRAHAL_CV.pdf": "ab2e1f34ca80beae68f32168c5da26c2eadde1a9",
     "https://MostafaAlrahal.github.io/mostafaalrahal/assets/fonts/Calibre/Calibre-Light.ttf": "8eccfc3783b04d13dec5887a15c3e00fd28bef7c",
     "https://MostafaAlrahal.github.io/mostafaalrahal/assets/fonts/Calibre/Calibre-Light.woff": "e3fbab74fa86b97c78ad1b1965b327fe5b2a1adb",
     "https://MostafaAlrahal.github.io/mostafaalrahal/assets/fonts/Calibre/Calibre-Light.woff2": "70021b39a260c5f53d2ec5ba30f37163bbe0ef14",
@@ -214,7 +214,7 @@
     "https://MostafaAlrahal.github.io/mostafaalrahal/assets/fonts/SFMono/SFMono-SemiboldItalic.woff": "4bb2ddc7da8064698328e123bd3ec673f674a90d",
     "https://MostafaAlrahal.github.io/mostafaalrahal/assets/fonts/SFMono/SFMono-SemiboldItalic.woff2": "3621c6894388833626fd4cf132087a3f46a54a21",
     "https://MostafaAlrahal.github.io/mostafaalrahal/assets/fonts/SFMono/stylesheet.css": "b6c8e6eb227dc3d0ae6b70b6a67930b190533453",
-    "https://MostafaAlrahal.github.io/mostafaalrahal/assets/i18n/en.json": "e989a73075f0e183cd8ccc72df9718ccb55a6265",
+    "https://MostafaAlrahal.github.io/mostafaalrahal/assets/i18n/en.json": "1ba7286732a68f0c597000240275c3a54e27b208",
     "https://MostafaAlrahal.github.io/mostafaalrahal/assets/images/ai4all/ai_concierge.webp": "f4d0e841152d324e59bbb5e50a1261bac037a299",
     "https://MostafaAlrahal.github.io/mostafaalrahal/assets/images/ai4all/akaliza1.webp": "7db225ae21635734733a6f5119b6ec1924a65e2b",
     "https://MostafaAlrahal.github.io/mostafaalrahal/assets/images/ai4all/akaliza2.webp": "4976eaaee9d24713323348b5a4a5cc1873747b49",
